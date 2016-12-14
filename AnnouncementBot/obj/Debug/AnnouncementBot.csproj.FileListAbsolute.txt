@@ -1,0 +1,13 @@
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\AnnouncementBot.exe.config
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\AnnouncementBot.exe
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\AnnouncementBot.pdb
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\obj\Debug\AnnouncementBot.exe
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\obj\Debug\AnnouncementBot.pdb
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\bin\Debug\ATL.dll
+C:\Users\Roland\OneDrive\Projects\AnnouncementBot\AnnouncementBot\obj\Debug\AnnouncementBot.csprojResolveAssemblyReference.cache
